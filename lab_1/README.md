@@ -54,3 +54,5 @@ Program implementuje wzorzec **producent-konsument** z 4 goroutines:
 - `sync.WaitGroup` - koordynuje zakończenie wszystkich goroutines
 
 Program działa przez dokładnie 30 sekund, po czym wszystkie goroutines kończą pracę w kontrolowany sposób.
+
+![working program](./photo_2025-10-09_09-26-45.jpg)
